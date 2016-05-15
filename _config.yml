@@ -12,8 +12,6 @@ description: > # this means to ignore newlines until "baseurl:"
  Welcome to the website, using codeacadamy.com and github I have created this free website
  for the internet to see! I'm new to this so this is just a test website, as i progress in
  adding code, I will do more with this, for now it stands as a "Dummy" website.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: loganlavallee
 github_username:  monkeysmasher1
 twitch username: monkeysmasher_1
